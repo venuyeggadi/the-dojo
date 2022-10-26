@@ -1,0 +1,2 @@
+(this["webpackJsonpthe-dojo"]=this["webpackJsonpthe-dojo"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var c=n(1),o=n.n(c),r=n(3),s=n.n(r),i=(n(8),n(9),n(0));var d=function(){return Object(i.jsx)("div",{className:"App",children:"App"})};s.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(d,{})}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.98d982f7.chunk.js.map
