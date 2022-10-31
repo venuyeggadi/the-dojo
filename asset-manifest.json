@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-dojo/static/css/main.aec591a1.chunk.css",
-    "main.js": "/the-dojo/static/js/main.09b1fcbe.chunk.js",
-    "main.js.map": "/the-dojo/static/js/main.09b1fcbe.chunk.js.map",
+    "main.js": "/the-dojo/static/js/main.78dd7127.chunk.js",
+    "main.js.map": "/the-dojo/static/js/main.78dd7127.chunk.js.map",
     "runtime-main.js": "/the-dojo/static/js/runtime-main.70051012.js",
     "runtime-main.js.map": "/the-dojo/static/js/runtime-main.70051012.js.map",
     "static/js/2.e1c07052.chunk.js": "/the-dojo/static/js/2.e1c07052.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.70051012.js",
     "static/js/2.e1c07052.chunk.js",
     "static/css/main.aec591a1.chunk.css",
-    "static/js/main.09b1fcbe.chunk.js"
+    "static/js/main.78dd7127.chunk.js"
   ]
 }
