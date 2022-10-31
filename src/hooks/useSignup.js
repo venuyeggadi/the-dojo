@@ -27,7 +27,7 @@ const useSignup = () => {
       await res.user.updateProfile({ displayName: displayName, photoURL: imgUrl })
 
       // create a user document
-      await projectFirestore.collection('users').doc(res.user.id).set({
+      await projectFirestore.collection('users').doc(res.user.uid).set({
         online: true,
         displayName,
         photoURL: imgUrl
