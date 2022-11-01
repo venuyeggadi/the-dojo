@@ -20,7 +20,7 @@ function App() {
     <div className="App">
       {authIsReady && (
         <BrowserRouter basename={process.env.PUBLIC_URL} >
-          <Sidebar />
+          {user && <Sidebar />}
           <div className="container">
             <Navbar />
             <Switch>
