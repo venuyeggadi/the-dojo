@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/the-dojo/static/css/main.2e6cf118.chunk.css",
-    "main.js": "/the-dojo/static/js/main.a7701d95.chunk.js",
-    "main.js.map": "/the-dojo/static/js/main.a7701d95.chunk.js.map",
+    "main.css": "/the-dojo/static/css/main.82fff702.chunk.css",
+    "main.js": "/the-dojo/static/js/main.c2046265.chunk.js",
+    "main.js.map": "/the-dojo/static/js/main.c2046265.chunk.js.map",
     "runtime-main.js": "/the-dojo/static/js/runtime-main.70051012.js",
     "runtime-main.js.map": "/the-dojo/static/js/runtime-main.70051012.js.map",
     "static/js/2.b080908d.chunk.js": "/the-dojo/static/js/2.b080908d.chunk.js",
     "static/js/2.b080908d.chunk.js.map": "/the-dojo/static/js/2.b080908d.chunk.js.map",
     "index.html": "/the-dojo/index.html",
-    "static/css/main.2e6cf118.chunk.css.map": "/the-dojo/static/css/main.2e6cf118.chunk.css.map",
+    "static/css/main.82fff702.chunk.css.map": "/the-dojo/static/css/main.82fff702.chunk.css.map",
     "static/js/2.b080908d.chunk.js.LICENSE.txt": "/the-dojo/static/js/2.b080908d.chunk.js.LICENSE.txt",
     "static/media/add_icon.376e9b6a.svg": "/the-dojo/static/media/add_icon.376e9b6a.svg",
     "static/media/dashboard_icon.bc800f3b.svg": "/the-dojo/static/media/dashboard_icon.bc800f3b.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.70051012.js",
     "static/js/2.b080908d.chunk.js",
-    "static/css/main.2e6cf118.chunk.css",
-    "static/js/main.a7701d95.chunk.js"
+    "static/css/main.82fff702.chunk.css",
+    "static/js/main.c2046265.chunk.js"
   ]
 }
