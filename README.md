@@ -1,3 +1,12 @@
+# Project is Live here
+### [https://venuyeggadi.github.io/the-dojo/](https://venuyeggadi.github.io/the-dojo/)
+### [https://the-dojo-76b39.web.app/](https://the-dojo-76b39.web.app/)
+<br>
+
+# Deploying to firebase
+Remove homepage property in package.json before building the project for deployment on the firebase.
+That homepage property is intended for Github actions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
